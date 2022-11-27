@@ -12,14 +12,20 @@ root.render(
     <App />
 
     <p>
-      <a href="https://github.com/lacanella/weather-react-app">
+      <a href="https://github.com/lacanella/weather-react-app" target="_blank">
         Open-source code{" "}
       </a>{" "}
       by{" "}
-      <a href="https://www.shecodesfoundation.org/candidates/karina-agakhanova-ukrainian">
+      <a
+        href="https://www.shecodesfoundation.org/candidates/karina-agakhanova-ukrainian"
+        target="_blank"
+      >
         Karina Agakhanova
       </a>{" "}
-      from <a href="https://www.shecodes.io/">Shecodes</a>
+      from{" "}
+      <a href="https://www.shecodes.io/" target="_blank">
+        Shecodes
+      </a>
     </p>
   </React.StrictMode>
 );
